@@ -35,13 +35,13 @@
 
 
 ## Βιβλιογραφία
-* (Don Herbison Evans, 1988, 45)
-* (Fernau Hall, 1967, 188-189)
-* (Ryman, Singh, Beatty, Booth, 1984, 27-28)
-* (Fugedi, 1991, 105-106)
-* (Gray, 1989, 69-73)
-* (Saad, De Beul, Mahmoudi,Mannerback, 2012, 1-5)
-* (Winkler, 1995, 1-3)
+* Don Herbison Evans. 1988. Dance, Video, Notation and Computers. Published by: The MIT Press
+* Fernau Hall. 1967.Benesh Notation and Ethnomusicology. Published by: University of Illinois Press
+* Rhonda Ryman, Baldev Singh, John C. Beatty and Kellogg S. Booth. 1984. Published by: Cambridge University Press
+* Janos Fugedi. 1991. Dance Notation and Computers. Published by: Cambridge University Press
+* Judith Gray. 1989. Dance Technology: Current Applications and Futire Trends. Published by: American Alliance for Health, Physical Education,Recreation and Dance, Reston, VA. National Dance Association
+* Sawsan Saad, Dominique De Beul, Mahmoudi Mahmoudi, Pierre Mannerback. 2012. An Ontology for Video Human Movement Representation Based on Benesh Notation, Written for International Conference on Multimedia Computing and Systems (ICMCS)
+* Todd Winkler, 1995, Making Motion Musical: Gesture Mapping Strategies for Interactive Computer Music. Published in Proceedings of the 1995 International Computer Music Conference
 
 
 
