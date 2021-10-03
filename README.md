@@ -35,13 +35,13 @@
 
 
 ## Βιβλιογραφία
-1. (Don Herbison Evans, 1988, 45)
-2. (Fernau Hall, 1967, 188-189)
-3. (Ryman, Singh, Beatty, Booth, 1984, 27-28)
-4. (Fugedi, 1991, 105-106)
-5. (Gray, 1989, 69-73)
-6. (Saad, De Beul, Mahmoudi,Mannerback, 2012, 1-5)
-7. (Winkler, 1995, 1-3)
+* (Don Herbison Evans, 1988, 45)
+* (Fernau Hall, 1967, 188-189)
+* (Ryman, Singh, Beatty, Booth, 1984, 27-28)
+* (Fugedi, 1991, 105-106)
+* (Gray, 1989, 69-73)
+* (Saad, De Beul, Mahmoudi,Mannerback, 2012, 1-5)
+* (Winkler, 1995, 1-3)
 
 
 
